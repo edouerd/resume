@@ -1,2 +1,5 @@
-# resume
-Welcome to my desk.
+Résumé
+
+—
+
+Welcome to my desk. An interactive hangout built with Twine.
